@@ -1,11 +1,11 @@
 {
-    "name": "laravel/jetstream",
-    "description": "WI JETSTREAM SPARK",
+    "name": "wi-development/jetstream",
+    "description": "WI JETSTREAM SPARK x",
     "keywords": ["laravel", "tailwind", "auth"],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/laravel/jetstream/issues",
-        "source": "https://github.com/laravel/jetstream"
+        "issues": "https://github.com/wi-development/jetstream/issues",
+        "source": "https://github.com/wi-development/jetstream"
     },
     "authors": [
         {
