@@ -1,6 +1,6 @@
 <p align="center"><img src="/art/logo.svg" alt="Logo Laravel Jetstream"></p>
 
-<p align="center">
+<p align="center">s
     <a href="https://github.com/laravel/jetstream/actions">
         <img src="https://github.com/laravel/jetstream/workflows/tests/badge.svg" alt="Build Status">
     </a>
